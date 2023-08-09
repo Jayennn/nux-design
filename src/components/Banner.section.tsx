@@ -1,5 +1,5 @@
 import Heading from "./ui/Heading";
-import image from "../assets/bannerImage.png"
+import image from "../assets/bannerImage.webp"
 import Reveal from "./ui/Reveal";
 import SlideText from "./ui/SlideText";
 

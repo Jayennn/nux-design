@@ -32,7 +32,7 @@ const Navbar = () => {
                      <MediumIcon />
                   </button>
                </div>
-               <ul className="hidden md:flex gap-5 items-center justify-around">
+               <ul className="hidden lg:flex gap-5 items-center justify-around">
                   {LINK_LEFT.map((link) => (
                      <li className="font-medium text-base" key={link}>
                         {link}
@@ -49,10 +49,10 @@ const Navbar = () => {
                      </li>
                   ))}
                </ul>
-               <Paragraph className="block md:hidden text-xl uppercase font-semibold">
+               <Paragraph className="block lg:hidden text-xl uppercase font-semibold">
                   nuxdsgn.
                </Paragraph>
-               <button type="button" className="hidden md:grid place-content-center bg-[#050505] px-[24px] py-[12px] rounded-[32px]">
+               <button type="button" className="hidden lg:grid place-content-center bg-[#050505] px-[24px] py-[12px] rounded-[32px]">
                   <Paragraph className="text-[#FFFFFF] font-medium" size={"sm"}>Collaborate?</Paragraph>
                </button>
             </div>

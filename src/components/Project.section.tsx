@@ -1,6 +1,6 @@
 import Paragraph from "./ui/Paraghraph";
-import lawFirm from "../assets/projects/lawFirm.png";
-import gym from "../assets/projects/gym.png";
+import lawFirm from "../assets/projects/lawFirm.webp";
+import gym from "../assets/projects/gym.webp";
 import AnimatedText from "./ui/AnimatedText";
 
 const Project = () => {

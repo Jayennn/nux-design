@@ -22,7 +22,7 @@ const Client = () => {
       <>
          <section className="py-28">
             <div className="container mx-auto px-4">
-               <div className="lg:mx-44 md:flex md:items-center grid lg:place-content-center grid-cols-4 gap-8">
+               <div className="lg:mx-44 md:flex md:items-center grid md:place-content-center grid-cols-4 gap-8">
                   <div className="hidden md:col-span-1 md:flex md:justify-end md:w-[8rem] lg:w-[12rem]">
                      <svg height="220" viewBox="0 0 209 210" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect x="1.5" y="2" width="206" height="206" rx="103" fill="#D9D9D9" stroke="black" strokeWidth="3" />

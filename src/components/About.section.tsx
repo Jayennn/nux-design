@@ -1,7 +1,7 @@
-import person1 from "../assets/person/person1.png"
-import person2 from "../assets/person/person2.png"
-import person3 from "../assets/person/person3.png"
-import person4 from "../assets/person/person4.png"
+import person1 from "../assets/person/person1.webp"
+import person2 from "../assets/person/person2.webp"
+import person3 from "../assets/person/person3.webp"
+import person4 from "../assets/person/person4.webp"
 import AnimatedText from "./ui/AnimatedText";
 import Reveal from "./ui/Reveal";
 
