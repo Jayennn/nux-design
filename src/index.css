@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: #FDF3F3;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body, html {
+  overflow-x: hidden;
+}
+
+
+.background-figma {
+  background: url('assets/background.png'), rgb(0, 0, 0) 0% 0% / 100px 100px repeat;
+}
